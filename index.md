@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 这里是foreverdreamland.net我的世界服务器官网
 
-You can use the [editor on GitHub](https://github.com/hsiachihMain/foreverdreamland/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+服务器材质包下载页 [点击即可](https://pan.baidu.com/s/134RMqenfMPQn8Ac77OEH9g)提取码3333
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hsiachihMain/foreverdreamland/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 简介
+这是一个公益型的minecraft多人游戏服务器
+服务器位于四川省成都阿里云数据中心，主服使用8核32G配置
+这是一个正版验证的多人游戏服务器。
+值得注意的是，主服的生存游戏决定为万不得已不会删档，因此为避免出现坏档的问题，我们对玩法进行了极大的改变，这包括但不限于生物无法跨界传送，因此如果您是追求纯原版玩法的玩家，则您可能需要慎重加入。
+这是一个绝对反作弊的服务器。
+###立即连接
+服务器IP地址`foreverdreamland.net`
+服务器游戏版本`1.9~1.17.1` `主服生存玩法为1.17.1，但由于服务器还增加了其他版本的玩法因此允许低版本进入，但若使用低版本游玩主服生存可能会遇到意料之外的BUG，例如无法取得-64~320的y轴`
+服务器验证模式`正版验证`
