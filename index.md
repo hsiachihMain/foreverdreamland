@@ -1,6 +1,6 @@
 ## 这里是foreverdreamland.net我的世界服务器官网
 
-服务器mod下载页 [点击即可](https://hsiachihmain.github.io/foreverdreamland/)(暂时还没用这个,点不动的)
+服务器mod下载页 [点击即可](https://pan.baidu.com/s/1wNQUNuNEJpzgk2onb_T5HA)(提取码rqnb)
 
 [点我进入服务器意见BUG反馈页面](http://qwq.中国/index.php/2021/10/22/mymcserver/)
 
