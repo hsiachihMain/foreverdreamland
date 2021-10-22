@@ -2,13 +2,15 @@
 
 服务器mod下载页 [点击即可](https://hsiachihmain.github.io/foreverdreamland/)(暂时还没用这个,点不动的)
 
+[点我进入服务器意见BUG反馈页面](http://qwq.中国/index.php/2021/10/22/mymcserver/)
+
 ### 简介
 这是一个公益型的minecraft多人游戏服务器。
 
 这是一个正版验证的多人游戏服务器。
 
 ### 立即连接
-服务器IP地址`foreverdreamland.net`
+服务器IP地址`QwQ.中国`
 
 服务器游戏版本`1.9~1.17.1`
 
