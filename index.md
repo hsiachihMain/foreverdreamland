@@ -1,4 +1,4 @@
-## 这里是foreverdreamland.net我的世界服务器官网
+## 这里是QwQ永恒梦境我的世界服务器官网
 
 服务器mod下载页 [点击即可](https://pan.baidu.com/s/1wNQUNuNEJpzgk2onb_T5HA)(提取码rqnb)
 
@@ -12,7 +12,7 @@
 ### 立即连接
 服务器IP地址`QwQ.中国`
 
-英文转码IP地址(低版本麦块可能无法识别中文IP则需要使用此IP) `QwQ.xn--fiqs8s`
+英文IP地址(低版本麦块可能无法识别中文IP则需要使用此IP) `QAQ.cool`
 
 服务器游戏版本`1.9~1.17.1`
 
