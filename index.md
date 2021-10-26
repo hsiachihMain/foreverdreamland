@@ -2,7 +2,7 @@
 
 服务器mod下载页 [点击即可](https://pan.baidu.com/s/1wNQUNuNEJpzgk2onb_T5HA)(提取码rqnb)
 
-[点我进入服务器意见BUG反馈页面](http://qwq.中国/index.php/2021/10/22/mymcserver/)
+[点我进入服务器意见BUG反馈页面](http://qwq.中国/index.php/1999/01/01/qwq_yong_heng_meng_jing_mai_kuai_fu_wu_qi_liu_yan_ye/)
 
 ### 简介
 这是一个公益型的minecraft多人游戏服务器。
