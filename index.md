@@ -2,7 +2,7 @@
 
 服务器mod下载页 [点击即可](https://pan.baidu.com/s/1wNQUNuNEJpzgk2onb_T5HA)(提取码rqnb)
 
-[点我进入服务器意见BUG反馈页面](http://qwq.中国/index.php/1999/01/01/qwq_yong_heng_meng_jing_mai_kuai_fu_wu_qi_liu_yan_ye/)
+[点我进入服务器论坛](https://mc.qwq.network/)
 
 ### 简介
 这是一个公益型的minecraft多人游戏服务器。
@@ -10,9 +10,7 @@
 这是一个正版验证的多人游戏服务器。
 
 ### 立即连接
-服务器IP地址`QwQ.中国`
-
-英文IP地址(低版本麦块可能无法识别中文IP则需要使用此IP) `QwQ.gold`
+服务器IP地址`QwQ.Network`
 
 服务器游戏版本`1.9~1.17.1`
 
@@ -23,6 +21,6 @@
 
 2.传统版本mod生存服 `游戏内名称mod` `版本1.12.2`
 
-3.附加床战服务器 `游戏内名称bedwar` `版本1.12.2`
+3.洞穴生存服务器 `游戏内名称Cave` `版本1.17.1`
 
 服务器验证模式`正版验证`
